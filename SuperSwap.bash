@@ -98,4 +98,4 @@ echo "$SWAPFILE none swap sw 0 0" >> /etc/fstab
    swapon --show
    ```
 
----
+--
